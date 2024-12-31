@@ -2,6 +2,7 @@
   <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
   
 </a>
+
 ## Hi, I’m Jonathan Franco <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <p>
   <a href="https://github.com/NahtanDevFS"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Systems+Engineering+Student;I+love+Learning+and+Improving+at+Code!" /></a>
@@ -35,6 +36,13 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white">
-  
-
 </span>
+
+
+
+<br></br>
+
+## GitHub stats:
+
+[![](https://github-readme-stats.vercel.app/api?username=NahtanDevFS&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/NahtanDevFS)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=NahtanDevFS&theme=material-palenight)](https://github.com/NahtanDevFS)
