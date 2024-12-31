@@ -5,8 +5,6 @@
   <a href="https://github.com/NahtanDevFS"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Systems+Engineering+Student;I+love+Learning+and+Improving+at+Code!" /></a>
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='25%'>
 </p>
-
-
 🌱 I’m currently studying **Systems Engineering** and learning **WEB Development Full-Stack** by myself
 
 📫 Reach out to me at: <a href="jonathan04franco@gmail.com">jonathan04franco@gmail.com</a>
