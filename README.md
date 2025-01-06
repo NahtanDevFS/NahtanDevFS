@@ -8,6 +8,8 @@
 
 📫 Reach out to me at: <a href="jonathan04franco@gmail.com">jonathan04franco@gmail.com</a>
 
+💼 My portfolio is: <a href="https://portfolio-nu-orcin-50.vercel.app/">Portfolio</a>
+
 ## Technologies that I've used:
 
 <h4> Languages </h4>
