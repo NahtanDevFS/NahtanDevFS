@@ -6,9 +6,9 @@
 
 🌱 I’m currently studying **Systems Engineering** and learning **WEB Development Full-Stack** by myself
 
-💼 My portfolio: <a target="_blank" href="https://portfolio-jonathan-franco.vercel.app/">Portfolio</a>
+💼 My portfolio: <a href="https://portfolio-jonathan-franco.vercel.app/">Portfolio</a>
 
-📫 Reach out to me at: <a target="_blank" href="jonathan04franco@gmail.com">jonathan04franco@gmail.com</a>
+📫 Reach out to me at: <a href="jonathan04franco@gmail.com">jonathan04franco@gmail.com</a>
 
 ## Technologies that I've used:
 
